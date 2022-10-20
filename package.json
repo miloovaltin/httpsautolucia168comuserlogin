@@ -1,16 +1,16 @@
 {
-"name": "httpsautolucia168comuserlogin",
-"theme": "https auto lucia168 com user login",
-"version": "9.1.7",
-"description": "https auto lucia168 com user login ทางเข้าเว็บพนันเว็บตรง คนเล่นเยอะ รับเงินเครดิตฟรี",
-"keywords": [
-"https auto lucia168 com user login",
-"https auto lucia168 com user login เครดิตฟรี",
-"https auto lucia168 com user login ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/httpsautolucia168comuserlogin",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "httpsautolucia168comuserlogin",
+  "theme": "https auto lucia168 com user login",
+  "version": "9.2.0",
+  "description": "https auto lucia168 com user login ทางเข้าเว็บพนันเว็บตรง คนเล่นเยอะ รับเงินเครดิตฟรี",
+  "keywords": [
+    "https auto lucia168 com user login",
+    "https auto lucia168 com user login เครดิตฟรี",
+    "https auto lucia168 com user login ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/httpsautolucia168comuserlogin",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
